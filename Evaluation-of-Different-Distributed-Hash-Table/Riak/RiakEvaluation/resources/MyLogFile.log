@@ -1,0 +1,22 @@
+Dec 01, 2015 10:03:07 PM edu.riak.Raik put
+INFO: Putting Process Started At 1449028987933
+Dec 01, 2015 10:11:32 PM edu.riak.Raik put
+INFO: Putting Process Started At 1449029492592
+Dec 01, 2015 10:11:34 PM edu.riak.Raik put
+INFO: Total time taken to put 10 operations on Redis Server :1409 milliseconds
+
+Dec 01, 2015 10:11:40 PM edu.riak.Raik get
+INFO: Getting Process Started At 1449029500833
+Dec 01, 2015 10:11:41 PM edu.riak.Raik get
+INFO: Total time taken to Get 10 operations on Redis Server :722 milliseconds
+
+Dec 01, 2015 10:11:46 PM edu.riak.Raik delete
+INFO: Deleting Process Started At 1449029506037
+Dec 01, 2015 10:11:46 PM edu.riak.Raik delete
+INFO: Total time taken to Delete 10 operations on Redis Server :584 milliseconds
+
+Dec 01, 2015 10:34:23 PM edu.riak.Raik put
+INFO: Putting Process Started At 1449030863741
+Dec 01, 2015 10:34:24 PM edu.riak.Raik put
+INFO: Total time taken to put 10 operations on Redis Server :918 milliseconds
+

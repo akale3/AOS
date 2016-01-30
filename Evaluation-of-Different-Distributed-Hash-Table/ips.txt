@@ -1,0 +1,4 @@
+# cat ips.txtd
+
+ubuntu@52.33.194.249
+

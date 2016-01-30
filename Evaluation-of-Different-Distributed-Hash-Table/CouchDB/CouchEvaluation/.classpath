@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/couchdb4j-0.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/httpcore-ab-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/httpcore-nio-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/json-lib-2.0-jdk15.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/org.apache.commons.beanutils.jar"/>
+	<classpathentry kind="lib" path="/home/aditya/Desktop/fwd/CouchLib/org.apache.commons.collections.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
