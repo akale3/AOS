@@ -1,0 +1,16 @@
+currnetMachinePort = 9998
+serverPort1 = 9991
+serverIp2 = 127.0.0.1
+serverPort2 = 9992
+serverIp3 = 127.0.0.1
+serverPort3 = 9993
+serverIp4 = 127.0.0.1
+serverPort4 = 9994
+serverIp5 = 127.0.0.1
+serverPort5 = 9995
+serverIp6 = 127.0.0.1
+serverPort6 = 9996
+serverIp7 = 127.0.0.1
+serverPort7 = 9997
+serverIp8 = 127.0.0.1
+serverPort8 = 9998
